@@ -1,0 +1,31 @@
+body{
+background: linear-gradient(90deg, rgba(33,33,60,1) 0%, rgba(20,23,41,0.8412698412698413) 49%, rgba(45,58,61,1) 100%);
+}
+.box{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+}
+.block1{
+	color: white;
+	width:200px;
+	height: 140px;
+	background-color: black;
+
+}
+h1{
+	color: white;
+}
+h2{
+	color: white;
+}
+h3{
+	color: white;
+}
+.block2{
+	color: white;
+	width:200px;
+	height: 100px;
+	background-color: black;
+}
